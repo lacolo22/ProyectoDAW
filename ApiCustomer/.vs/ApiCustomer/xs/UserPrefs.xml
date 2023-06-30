@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F717477F-3842-411A-AC34-FCF8934121C7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ApiCustomer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiCustomer/Controllers/CustomerController.cs">
+    <Files>
+      <File FileName="ApiCustomer/Models/ApiCustomerContext.cs" Line="21" Column="7" />
+      <File FileName="ApiCustomer/Repository/ICustomerRepository.cs" Line="11" Column="43" />
+      <File FileName="ApiCustomer/Repository/CustomerSQLRepository.cs" Line="55" Column="1" />
+      <File FileName="ApiCustomer/Controllers/CustomerController.cs" Line="45" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiCustomer" expanded="True">
+            <Node name="ApiCustomer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomerController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
